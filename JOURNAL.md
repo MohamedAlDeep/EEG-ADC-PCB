@@ -9,6 +9,10 @@ Created On: "14/8/2025"
 Today, i have worked on the schematic design
 ## FootPrint
 
+![alt text](image.png) 
+**Time spent: 3h**
 
-![alt text](image.png)
-**Total time spent: 3h**
+
+# August 16th: Reverse Polarity Protection
+Spent time researching and working on power supply schematic, validated the final version and assigned footprints.
+**Time spent: 7h**
